@@ -1,6 +1,6 @@
-# ACT Prep — Support & Legal
+# ACT & SAT Prep — Support & Legal
 
-Public support site for the **ACT Prep** iOS / iPadOS / macOS app, served via GitHub Pages.
+Public support site for the **ACT & SAT Prep** iOS / iPadOS / Android app, served via GitHub Pages.
 
 | Page | URL |
 |---|---|
@@ -17,5 +17,5 @@ GitHub Pages redeploys automatically within a minute or two.
 
 ---
 
-ACT Prep is an independent study app and is not affiliated with, endorsed by, or sponsored by
-ACT, Inc. ACT® is a registered trademark of ACT, Inc.
+ACT & SAT Prep is an independent study app and is not affiliated with, endorsed by, or sponsored
+by ACT, Inc. or the College Board. ACT® and SAT® are registered trademarks of their owners.
